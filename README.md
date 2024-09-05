@@ -1,3 +1,3 @@
 # NSDC-Projects
 
-Holding all the NSDC Projects I did
+Holding all my completed NSDC Projects. 
